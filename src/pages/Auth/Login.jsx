@@ -2,7 +2,7 @@ import {  useState } from "react";
 import { useNavigate } from "react-router-dom"; // Importar useNavigate para redireccionar
 import { useAuth } from "../../Context/AuthContext";
 
-import Compu from "../../assets/compu.png";
+import Compu from "../../assets/laptop.png";
 import Logo from "../../assets/Logo.png";
 
 export function Login() {
